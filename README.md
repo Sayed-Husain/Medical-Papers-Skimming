@@ -1,4 +1,4 @@
-# medical-papers-skimmers
+# Medical-Papers-Skimming
 
 Also Known as SkimLit or PubMed.
 
@@ -18,5 +18,5 @@ In this notebook, I replicated a [state-of-the-art (NLP) model](https://arxiv.or
 **Problem Type**: 
 * **Text Classification**
 
-[**Notebook Link**](https://github.com/Sayed-Husain/medical-papers-skimmers/blob/main/model.ipynb)
+[**Notebook Link**](https://github.com/Sayed-Husain/Medical-Papers-Skimming/blob/main/model.ipynb)
 
